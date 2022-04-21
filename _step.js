@@ -33,5 +33,8 @@ Load data to the client side
 3. collection.find(query)
 4. cursor.toArray()
 5. return the result
-
+-----------
+Delete button
+----------
+1. 
  */
